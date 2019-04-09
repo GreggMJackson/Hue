@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hue", "Hue\Hue.csproj", "{96D1161C-43E2-4733-9A84-F9F5203FD0B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Natalie", "Natalie\Natalie.csproj", "{FEA9DBC9-6D6D-475D-BD4F-036A2E6D6E6E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Hue_VB", "Hue_VB\Hue_VB.vbproj", "{8D46E121-CF68-4E34-B7EA-7CBC7B4EC85F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Hue_FS", "Hue_FS\Hue_FS.fsproj", "{D14D4B1C-8469-4693-9FB3-4463D092BC2D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Natalie_VB", "Natalie_VB\Natalie_VB.vbproj", "{3E83FD0C-D286-40E7-BA84-13F413E93355}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Natalie_FS", "Natalie_FS\Natalie_FS.fsproj", "{B11F443B-893D-4B33-ADA0-D1F62601E9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D1161C-43E2-4733-9A84-F9F5203FD0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D1161C-43E2-4733-9A84-F9F5203FD0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D1161C-43E2-4733-9A84-F9F5203FD0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D1161C-43E2-4733-9A84-F9F5203FD0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA9DBC9-6D6D-475D-BD4F-036A2E6D6E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA9DBC9-6D6D-475D-BD4F-036A2E6D6E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA9DBC9-6D6D-475D-BD4F-036A2E6D6E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA9DBC9-6D6D-475D-BD4F-036A2E6D6E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D46E121-CF68-4E34-B7EA-7CBC7B4EC85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D46E121-CF68-4E34-B7EA-7CBC7B4EC85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D46E121-CF68-4E34-B7EA-7CBC7B4EC85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D46E121-CF68-4E34-B7EA-7CBC7B4EC85F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14D4B1C-8469-4693-9FB3-4463D092BC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14D4B1C-8469-4693-9FB3-4463D092BC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14D4B1C-8469-4693-9FB3-4463D092BC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14D4B1C-8469-4693-9FB3-4463D092BC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E83FD0C-D286-40E7-BA84-13F413E93355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E83FD0C-D286-40E7-BA84-13F413E93355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E83FD0C-D286-40E7-BA84-13F413E93355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E83FD0C-D286-40E7-BA84-13F413E93355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11F443B-893D-4B33-ADA0-D1F62601E9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11F443B-893D-4B33-ADA0-D1F62601E9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11F443B-893D-4B33-ADA0-D1F62601E9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11F443B-893D-4B33-ADA0-D1F62601E9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65844066-1588-4260-96AC-DF227655A198}
+	EndGlobalSection
+EndGlobal
